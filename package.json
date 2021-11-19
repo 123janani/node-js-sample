@@ -16,11 +16,7 @@
     "type": "git",
     "url": "https://github.com/Abhishek08/node-js-sample.git"
   },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
+ 
   "author": "Mark Pundsack",
   "contributors": [
     "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
